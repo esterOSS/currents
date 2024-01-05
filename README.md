@@ -1,3 +1,4 @@
+# THIS PROJECT IS DISCONTINUED AND WILL NO LONGER RECEIVE ANY SECURITY NOR FEATURE UPDATES!
 # ester Currents
 A Firefox Nigthly based browser that is included as of esterOS 25.1.
 
